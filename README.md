@@ -1,27 +1,39 @@
 # gratonite.chat
 
 [![Project](https://img.shields.io/badge/project-Gratonite-6d28d9)](https://github.com/CoodayeA/Gratonite)
-[![Status](https://img.shields.io/badge/status-reserved-f59e0b)](https://github.com/Gratonite-Labs/gratonite.chat)
-[![Docs](https://img.shields.io/badge/source%20of%20truth-main%20repo-2563eb)](https://github.com/CoodayeA/Gratonite)
+[![License](https://img.shields.io/badge/license-AGPLv3-blue)](https://github.com/CoodayeA/Gratonite/blob/main/LICENSE)
+[![Source of Truth](https://img.shields.io/badge/source%20of%20truth-monorepo-2563eb)](https://github.com/CoodayeA/Gratonite)
 
-Reserved for the Gratonite marketing site and public-facing content.
+Marketing site and public-facing content for [Gratonite](https://gratonite.chat).
 
-This repository is intended to hold the landing site and related public web content once it is split out from the main project.
+## About
 
-## Current Source Of Truth
+This pointer repo represents the gratonite.chat marketing site. The source code lives in `apps/landing/` in the main monorepo.
 
-The active landing site currently lives in:
+All active development happens in the **[main monorepo](https://github.com/CoodayeA/Gratonite)**.
 
-- [CoodayeA/Gratonite](https://github.com/CoodayeA/Gratonite)
-- Canonical path: `apps/landing`
+## What's at gratonite.chat
 
-## Intended Scope
+- Product landing page
+- Feature overview and screenshots
+- Download links for desktop and mobile apps
+- Link to the web app at [gratonite.chat/app](https://gratonite.chat/app)
 
-- Marketing site
-- Product pages
-- Blog and public content
-- Download and onboarding surfaces
+## Canonical Path
 
-## Notes
+`apps/landing/` in [CoodayeA/Gratonite](https://github.com/CoodayeA/Gratonite)
 
-This repo is intentionally minimal until the landing site is extracted into its own standalone repository.
+## Related Repos
+
+| Repo | Description |
+|------|-------------|
+| [CoodayeA/Gratonite](https://github.com/CoodayeA/Gratonite) | Main monorepo (source of truth) |
+| [Gratonite-Labs/web](https://github.com/Gratonite-Labs/web) | Web client |
+
+## Contributing
+
+See [CONTRIBUTING.md](https://github.com/CoodayeA/Gratonite/blob/main/CONTRIBUTING.md) in the main repo.
+
+## License
+
+[AGPLv3](https://github.com/CoodayeA/Gratonite/blob/main/LICENSE)
